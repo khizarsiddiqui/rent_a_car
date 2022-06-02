@@ -1,0 +1,40 @@
+.srch2{
+    width: 60%;
+}
+.srch5{
+    width: 80%;
+}
+html,body {
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+    }
+.backgroundpic{ 
+    width: 100%;
+    background: #292d30;
+}
+.text-small {
+    font-size: 0.9rem;
+  }  
+a{
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.3s;
+  } 
+a:hover, a:focus {
+    text-decoration: none;
+  }
+.form-control {
+    background: #dde5ec;
+    border-color: #545454;
+  } 
+.form-control:focus {
+    background: #808f9e;
+  }
+.lll{
+    color: azure;
+    font-style: italic;
+}
+footer{
+    background: #363a3f;
+  }
